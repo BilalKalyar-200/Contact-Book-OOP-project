@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\ContactsBook2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\ContactsBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contacts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact Book\\Contacts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\group.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact Book\\group.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Address2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC91D54-069B-4197-8A5D-77447C733F24}|Contact Book\\Contact Book.vcxproj|solutionrelative:Contact Book\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Main.cpp",
+              "RelativeDocumentMoniker": "Contact Book\\Main.cpp",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Main.cpp",
+              "RelativeToolTip": "Contact Book\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T17:24:22.466Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address2.cpp",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address2.cpp",
+              "RelativeDocumentMoniker": "Contact Book\\Address2.cpp",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address2.cpp",
+              "RelativeToolTip": "Contact Book\\Address2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T17:57:51.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Group.h",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.h",
+              "RelativeDocumentMoniker": "Contact Book\\Group.h",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.h",
+              "RelativeToolTip": "Contact Book\\Group.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T16:06:55.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.h",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.h",
+              "RelativeDocumentMoniker": "Contact Book\\Contact.h",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.h",
+              "RelativeToolTip": "Contact Book\\Contact.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T17:21:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsBook.h",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook.h",
+              "RelativeDocumentMoniker": "Contact Book\\ContactsBook.h",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook.h",
+              "RelativeToolTip": "Contact Book\\ContactsBook.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T17:23:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cpp",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.cpp",
+              "RelativeDocumentMoniker": "Contact Book\\Contact.cpp",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contact.cpp",
+              "RelativeToolTip": "Contact Book\\Contact.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T17:20:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsBook2.cpp",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook2.cpp",
+              "RelativeDocumentMoniker": "Contact Book\\ContactsBook2.cpp",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\ContactsBook2.cpp",
+              "RelativeToolTip": "Contact Book\\ContactsBook2.cpp",
+              "ViewState": "AQIAAFsDAAAAAAAAAAAmwBIDAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T03:46:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contacts.txt",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contacts.txt",
+              "RelativeDocumentMoniker": "Contact Book\\Contacts.txt",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Contacts.txt",
+              "RelativeToolTip": "Contact Book\\Contacts.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-04T04:56:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Group.cpp",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.cpp",
+              "RelativeDocumentMoniker": "Contact Book\\Group.cpp",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Group.cpp",
+              "RelativeToolTip": "Contact Book\\Group.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAASwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T16:06:23.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "group.txt",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\group.txt",
+              "RelativeDocumentMoniker": "Contact Book\\group.txt",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\group.txt",
+              "RelativeToolTip": "Contact Book\\group.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-12T16:15:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.h",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\List.h",
+              "RelativeDocumentMoniker": "Contact Book\\List.h",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\List.h",
+              "RelativeToolTip": "Contact Book\\List.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T03:08:39.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Address.h",
+              "DocumentMoniker": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address.h",
+              "RelativeDocumentMoniker": "Contact Book\\Address.h",
+              "ToolTip": "E:\\Contact Book_latest(finall_)\\Contact Book_latest\\Contact Book\\Address.h",
+              "RelativeToolTip": "Contact Book\\Address.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T17:19:36.549Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
